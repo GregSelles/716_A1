@@ -5,4 +5,4 @@ GeoKnow is a fictitious, non-profit organization, with the goal of providing inf
 please find our [User Manual](22913998_UserManual_716.pdf)
 
 
-
+![image](image.png)
