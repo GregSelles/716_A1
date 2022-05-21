@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to GeoKnow 
 
-You can use the [editor on GitHub](https://github.com/GregSelles/716_A1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+GeoKnow is a fictitious, non-profit organization, with the goal of providing information about South Africa’s nature reserves, protected areas and conservation ecology. The idea behind GeoKnow is to provide users with information of the natural beauty around them and provide directions in order to traverse South Africa’s terrain such that anyone can get anywhere. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+please find our [User Manual] (22913998_UserManual_716.pdf)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GregSelles/716_A1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
